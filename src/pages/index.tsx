@@ -1,7 +1,8 @@
-
+import Landing from "@/components/landing";
+import Pagina from "@/components/template/Pagina";
 
 export default function Home() {
-  return (
-    <div className="text-8xl">Olá Mundo !</div>
-  );
+    return (
+        <Landing />
+    );
 }
