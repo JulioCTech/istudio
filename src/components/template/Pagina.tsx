@@ -1,6 +1,8 @@
+import { ReactNode } from "react"
+
 interface PaginaProps {
     externa?: boolean
-    children: any
+    children: ReactNode
     className?: string
 }
 
@@ -9,7 +11,7 @@ export default function Pagina(props: PaginaProps) {
     return (
         <div className={`
             flex flex-col min-h-screen 
-            bg-gradient-to-r from-zinc-900 via-black to-zinc-900
+            bg-gradient-to-r from-zinc-800 via-black to-zinc-800
             ${props.className ?? ''}
         `}>
             {props.children}

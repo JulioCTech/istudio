@@ -1,6 +1,4 @@
-
 import { IconArrowBarToRight, IconVideoFilled } from "@tabler/icons-react"
-
 
 export default function Frase() {
 
@@ -32,7 +30,7 @@ export default function Frase() {
                         flex items-center p-1
                         relative text-black
                     `}>
-                        <span className="absolute -rotate-1 top-0.5 left-0 w-full h-5/6 bg-yellow-300 rounded-sm" />
+                        <span className="absolute -rotate-1 top-0.5 left-0 w-full h-5/6 bg-[#008000] rounded-sm" />
                         <span className="relative rotate-2 z-20">dinheiro</span>
                     </span>
                 </div>
