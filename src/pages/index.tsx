@@ -1,8 +1,8 @@
-import Landing from "@/components/landing";
-import Pagina from "@/components/template/Pagina";
+import Financas from "@/components/financas";
+
 
 export default function Home() {
     return (
-        <Landing />
+        <Financas />
     );
 }
