@@ -13,23 +13,23 @@ export default function Depoimentos() {
                 </h2>
                 <div className="flex justify-center xl:justify-between items-center justify-items-center gap-7 w-full flex-wrap">
                     <Depoimento
-                        avatar="https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2376&q=80"
-                        nome="Gabriel Junior"
-                        titulo="Desenvolvedor de Software"
-                        texto="Estava sempre devendo dinheiro na bodega da esquina. Hoje estou conseguindo pagar tudo em dia e até juntar um pouco de dinheiro."
+                        avatar="https://images.unsplash.com/photo-1521119989659-a83eee488004?q=80&w=723&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                        nome="Lucas Almeida"
+                        titulo="Designer Gráfico"
+                        texto="Já perdi o controle das finanças várias vezes. Hoje, com organização e foco, mantenho as contas em dia e ainda consigo guardar dinheiro todo mês."
                     />
                     <Depoimento
-                        avatar="https://images.unsplash.com/photo-1628890923662-2cb23c2e0cfe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"
-                        nome="Juliana Moraes"
-                        titulo="Diretora Comercial"
-                        texto="Estava sempre devendo dinheiro na bodega da esquina. Hoje estou conseguindo pagar tudo em dia e até juntar um pouco de dinheiro."
+                        avatar="https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                        nome="Mariana Costa"
+                        titulo=" Analista de Dados"
+                        texto="Eu não sabia para onde meu salário ia. Depois que comecei a acompanhar meus gastos, consegui sair do aperto e planejar meu futuro com mais segurança."
                         destaque
                     />
                     <Depoimento
-                        avatar="https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2334&q=80"
-                        nome="Rafaela Vieira"
-                        titulo="Servidora Pública"
-                        texto="Estava sempre devendo dinheiro na bodega da esquina. Hoje estou conseguindo pagar tudo em dia e até juntar um pouco de dinheiro."
+                        avatar="https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                        nome="Thiago Menezes"
+                        titulo="Técnico em Informática"
+                        texto="Antigamente vivia no limite do cheque especial. Com disciplina e um bom controle financeiro, estou pagando dívidas e começando a investir."
                     />
                 </div>
             </div>
